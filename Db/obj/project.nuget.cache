@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qqQK4xk2agauiphmvzVl6EsNhwj4C6NCDZFIbWvuCmL6FL9KnkFnheU45Q/HJf6u5QmMJMfOffMJ6sl3RyK+Ig==",
+  "dgSpecHash": "DqpsuMk6HCAJZntBlIA7VwaC03PajIrVWt7nlwSHfvmodaFBG9cq5Z2B0k5YFLPV09uLj4ylOYRoB04WQtw1dw==",
   "success": true,
-  "projectFilePath": "D:\\Api\\Db\\DB.csproj",
+  "projectFilePath": "D:\\Api\\QualaApi\\Db\\DB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vanessa Mora\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Vanessa Mora\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
