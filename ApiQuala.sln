@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiQuala", "ApiQuala\ApiQuala.csproj", "{83F5AEC8-5287-4E61-8812-9B6772E52BBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "Db\DB.csproj", "{8B586162-EF97-4DBE-8D94-18B278B878A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83F5AEC8-5287-4E61-8812-9B6772E52BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83F5AEC8-5287-4E61-8812-9B6772E52BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83F5AEC8-5287-4E61-8812-9B6772E52BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83F5AEC8-5287-4E61-8812-9B6772E52BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B586162-EF97-4DBE-8D94-18B278B878A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B586162-EF97-4DBE-8D94-18B278B878A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B586162-EF97-4DBE-8D94-18B278B878A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B586162-EF97-4DBE-8D94-18B278B878A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1710E3FE-8026-4E50-8969-C8E0C0056A66}
+	EndGlobalSection
+EndGlobal
