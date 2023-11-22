@@ -10,6 +10,8 @@ namespace ApiQuala.Mappers
 
             CreateMap<CreateBranchDto, Branch>();
             CreateMap<UpdateBranchDto, Branch>();
+            CreateMap<CreateCoinDto, Coin>();
+            CreateMap<UpdateCoinDto, Coin>();
         }
 
 

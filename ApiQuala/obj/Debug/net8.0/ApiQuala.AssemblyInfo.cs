@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiQuala")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87bf49b180ccad5fb0fdf9178ee7f0f4648f7ee9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91c77b75fbad28d31b09bea76fee7afb823ad006")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiQuala")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiQuala")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
