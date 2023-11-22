@@ -4021,11 +4021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api\\Db\\DB.csproj",
+      "projectUniqueName": "D:\\Api\\QualaApi\\Db\\DB.csproj",
       "projectName": "DB",
-      "projectPath": "D:\\Api\\Db\\DB.csproj",
+      "projectPath": "D:\\Api\\QualaApi\\Db\\DB.csproj",
       "packagesPath": "C:\\Users\\Vanessa Mora\\.nuget\\packages\\",
-      "outputPath": "D:\\Api\\Db\\obj\\",
+      "outputPath": "D:\\Api\\QualaApi\\Db\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

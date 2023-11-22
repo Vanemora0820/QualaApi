@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44ZhdfZmPOmh/BIZ7cXHM1gi6gFk0V8jcXERBF4RpWnUd5ziVb0munRi5OIbF79/hvBKDfSx8XjFCasJLQQt7Q==",
+  "dgSpecHash": "YeI9VD33SWsNbqYjxZw/VyahWA44/TUccG0c+jQ3W6Iu5LnjAMjVKH+9qj/Xf7fc8w+i1x7ed3aztLzzlbFUrQ==",
   "success": true,
-  "projectFilePath": "D:\\Api\\ApiQuala\\ApiQuala.csproj",
+  "projectFilePath": "D:\\Api\\QualaApi\\ApiQuala\\ApiQuala.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vanessa Mora\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Vanessa Mora\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
